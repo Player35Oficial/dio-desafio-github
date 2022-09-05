@@ -1,0 +1,4 @@
+Este repositório foi criado com Base nas orientações do Desafio de Introdução ao Git/Github. 
+A intenção era ser o "primeiro repositório" mas serviu apenas como um reforço de fundamentos sobre Git/Github.
+
+Continuarei com a Trilha, possivelmente este repositório receberá mais atualizações. 
